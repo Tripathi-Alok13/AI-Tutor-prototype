@@ -7,7 +7,7 @@
 
   <p><strong>Enter any topic → Crystal-clear explanation → Ace a smart 10-question mock test grounded in what you just learned</strong></p>
 
-  <img src="https://via.placeholder.com/1100x520/1E2937/8B5CF6?text=🎓+AITutor+—+Light+Purple+Modern+Interface" 
+  <img src="https://api.pikwy.com/web/699afea9b44da05a310deb4c.png" 
        alt="AITutor Preview" 
        width="920" />
 
