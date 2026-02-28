@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Production%20Ready-Ready%20to%20Deploy-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Production Ready" />
 
   <h1 style="font-size: 3.8rem; margin: 16px 0 8px; background: linear-gradient(90deg, #A78BFA, #C4B5FD, #DDD6FE); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">
-    ✨ AITutor
+    🌊 AITutor 🌊
   </h1>
   
   <h3 style="color: #64748B; font-weight: 500;">AI-Powered Tutor for Indian Students</h3>
